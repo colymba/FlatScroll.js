@@ -1,0 +1,17 @@
+{
+  "name": "FlatScroll.js",
+  "version": "1.0.0",
+  "description": "FlatScroll.js jQuery plugin.",
+  "main": "Gruntfile.js",
+  "scripts": {},
+  "repository": "",
+  "author": "Thierry Francois <thierry@colymba.com>",
+  "license": "BSD Simplified",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-uglify": "~0.1.1rc5",
+    "grunt-contrib-clean": "git://github.com/gruntjs/grunt-contrib-clean.git",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-cssmin": "~0.5.0"  
+  }
+}
